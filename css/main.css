@@ -1,0 +1,42 @@
+html {
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+}
+
+.section-intro #main-heading {
+    padding-top: 100px !important;
+}
+
+.brand-logo {
+    color: #0A0B28 !important;
+    font-weight: 1000 !important;
+}
+
+.bold {
+    color: #0A0B28 !important;
+    font-weight: 1000 !important;
+}
+
+.section-price {
+    background-color: #0A0B28 !important;
+}
+
+.section-whatsapp-benefit2 {
+    background-color: #0A0B28 !important;
+}
+
+.section-benefits {
+    background-color: #0A0B28 !important;
+}
+
+.page-footer {
+    background-color: #0A0B28 !important;
+}
+
+.search-window-text {
+    padding-top: 100px !important;
+}
+
+.aiBenefit-text {
+    padding-top: 100px !important;
+}
